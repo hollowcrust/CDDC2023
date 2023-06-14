@@ -1,4 +1,4 @@
-# CDDC 2023 - Forensics Writeups
+# CDDC 2023 - Forensics Challenges
 
 ## #1: Audio steganography (100 pts)
 
